@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-<img align="right" width="88" src="https://github.com/ruihua-chen/ruihua-chen.github.io/blob/master/images/image.png?raw=true"/>
+# <img align="right" width="88" src="https://github.com/ruihua-chen/ruihua-chen.github.io/blob/master/images/image.png?raw=true"/>
 
-&emsp;&emsp; Greetings! I am currently an undergraduate student started from 2022 at the School of Mathematics and Statistics, Xi’an Jiaotong University [(XJTU)](https://www.xjtu.edu.cn/), supervised by Prof. [Bangyu Wu](https://gr.xjtu.edu.cn/en/web/bangyuwu/home), working with Ph.D. student [Yisi Luo](https://yisiluo.github.io/).  I will pursue a master's degree at the School of Mathematics and Statistics, Xi’an Jiaotong University [(XJTU)]((https://www.xjtu.edu.cn/)) in 2026, supervised by Prof. [Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng). In July 2024, I will begin an internship at the Department of Oil and Gas Geophysics, CNPC Research Institute of Petroleum Exploration & Development [(RIPED)](http://riped.cnpc.com.cn/riped2021/index.shtml).
+Greetings! I am currently an undergraduate student started from 2022 at the School of Mathematics and Statistics, Xi’an Jiaotong University [(XJTU)](https://www.xjtu.edu.cn/), supervised by associate Prof. [Bangyu Wu](https://gr.xjtu.edu.cn/en/web/bangyuwu/home) and working with Ph.D. student [Yisi Luo](https://yisiluo.github.io/). I will pursue a PhD degree at the School of Mathematics and Statistics, Xi’an Jiaotong University in 2026, supervised by Prof. [Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng).
 
-&emsp;&emsp; My research interests include implicit continuous representation and regularization for PDE-related forward and inverse problems, e.g., wave equation forward modeling, full waveform inversion (FWI).
+My research interests include machine learning theory and PDE-related forward and inversion problems, e.g., implicit regularization, neural tangent kernel (NTK), neural operator, and full-waveform inversion (FWI). 
 
-E-mail: Ruihua.Chen@stu.xjtu.edu.cn
+E-mail: ruihua.chen@stu.xjtu.edu.cn
 
 A data-driven personal website
 ======
