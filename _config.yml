@@ -24,9 +24,9 @@ repository               : "ruihua-chen/ruihua-chen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "RuihuaChen(陈瑞华)"
+  name             : "RuihuaChen (陈瑞华)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD of XJTU"
+  bio              : "PhD student at XJTU"
   location         : "China"
   employer         : "Xi'an Jiaotong University"
   uri              : # URL
