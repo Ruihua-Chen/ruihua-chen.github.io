@@ -20,6 +20,5 @@ Publication
 * Bo Kang\*, **Ruihua Chen**\*, Kai Yang, Meng Li, Bangyu Wu*, "Implicit full waveform inversion with adaptive Fourier frequency bases learning", **Geophysical Journal International (GJI)**, 2026. (\*Equal contribution)
 
 
-# Award and Honor
-# ------
+
 
