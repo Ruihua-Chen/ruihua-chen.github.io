@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-### <div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=聚焦前沿、强化交叉、顶天立地、服务国家;I'm+Ruihua-Chen+Welcome+!&center=true&size=18"> </a> </div>
-<img align="right" width="88" src="image.png"/>
 
-&emsp;&emsp; Greetings! I am currently an undergraduate student started from 2022 at the School of Mathematics and Statistics, Xi’an Jiaotong University [(XJTU)](https://www.xjtu.edu.cn/), supervised by Prof. [Bangyu Wu](https://gr.xjtu.edu.cn/en/web/bangyuwu/home), working with Ph.D. student [Yisi Luo](https://yisiluo.github.io/).  I will pursue a master's degree at the School of Mathematics and Statistics, Xi’an Jiaotong University [(XJTU)]((https://www.xjtu.edu.cn/)) in 2026, supervised by Prof. [Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng). In July 2024, I will begin an internship at the Department of Oil and Gas Geophysics, CNPC Research Institute of Petroleum Exploration & Development [(RIPED)](http://riped.cnpc.com.cn/riped2021/index.shtml). </p>
+<img align="right" width="88" src="https://github.com/ruihua-chen/ruihua-chen.github.io/blob/master/images/image.png?raw=true"/>
+
+&emsp;&emsp; Greetings! I am currently an undergraduate student started from 2022 at the School of Mathematics and Statistics, Xi’an Jiaotong University [(XJTU)](https://www.xjtu.edu.cn/), supervised by Prof. [Bangyu Wu](https://gr.xjtu.edu.cn/en/web/bangyuwu/home), working with Ph.D. student [Yisi Luo](https://yisiluo.github.io/).  I will pursue a master's degree at the School of Mathematics and Statistics, Xi’an Jiaotong University [(XJTU)]((https://www.xjtu.edu.cn/)) in 2026, supervised by Prof. [Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng). In July 2024, I will begin an internship at the Department of Oil and Gas Geophysics, CNPC Research Institute of Petroleum Exploration & Development [(RIPED)](http://riped.cnpc.com.cn/riped2021/index.shtml).
 
 &emsp;&emsp; My research interests include implicit continuous representation and regularization for PDE-related forward and inverse problems, e.g., wave equation forward modeling, full waveform inversion (FWI).
 
